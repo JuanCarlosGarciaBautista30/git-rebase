@@ -1,2 +1,4 @@
 ¡Hola! aqui inicio las siguientes lineas de código para hacer un rebase en git hub
 La finalidad de este proyecto es hacer un git rebase para aprender exactamente como y donde aplicarlo
+Se crearan ramas respectivas para lograr este proyecto, así inicializaremos con este importante concepto.
+!Aaaquui baamos¡.... ups creo que no escribi bien😁.
